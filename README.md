@@ -1,0 +1,79 @@
+# idom – Baby.U
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I need U
+1年後もキミと居たい
+I need U
+春夏秋冬
+I need U
+1年後もキミと居たい
+I need U
+春夏秋冬
+街から街へ
+すり減らしたスニーカーを履いて
+キミと2人で
+はぐれないように乗り込む
+on the train
+2月の海で
+寒がり屋の僕温めて
+朝から晩まで
+カメラロール残す思い出
+Baby Baby
+代わり映えしない日々だけど
+Baby Baby
+だからこんなにも愛しいよ
+Baby Baby
+苦い思い出溶かす雪のように
+One love, Two hearts
+寒空の下
+I need U
+1年後もキミと居たい
+I need U
+春夏秋冬
+I need U
+1年後もキミと居たい
+I need U
+春夏秋冬
+ベッドの上で食べるラーメン
+プロジェクターで映画
+ChillするOne day
+影絵遊び 手と手がキス
+君乗せていくドライブ 2000GTで
+僕の隣にいてよ永遠になんて
+季節乗り越えることすら
+奇跡みたいに思えるのにさ
+Baby Baby
+当たり前じゃないこの日々を
+Baby Baby
+温もりと共にくれた人
+Baby Baby
+君への想い 積もる雪のように
+One love, Two hearts
+寒空の下
+I need U
+1年後もキミと居たい
+I need U
+春夏秋冬
+I need U
+1年後もキミと居たい
+I need U
+春夏秋冬
+Da-la-la, Da-la-la-da, yeah
+Da-la-la, Da-la-la-da, yeah
+Da-la-la, Da-la-la-da, yeah
+Na-na-na-na-na-na-na
+Da-la-la, Da-la-la-da, yeah
+Da-la-la, Da-la-la-da, yeah
+Da-la-la, Da-la-la-da…
+Baby Baby
+Say goodbye
+to the painful seasons
+Baby Baby
+We'll make it thorough
+until the very last
+Baby Baby
+僕ら探してる purpose of life
+この街の中
+```
