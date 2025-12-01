@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Baby.U",
+  "base_artist": "idom",
+  "createdAt": "2025-12-01T03:48:06.637716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby U Got",
+      "artist": "G-Unit",
+      "has_synced": true,
+      "path": "select/01_Baby_U_Got_G-Unit.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby U Are",
+      "artist": "Gerald Levert",
+      "has_synced": true,
+      "path": "select/02_Baby_U_Are_Gerald_Levert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby U Are (Long 1.07)",
+      "artist": "Gerald Levert",
+      "has_synced": true,
+      "path": "select/03_Baby_U_Are_(Long_1.07)_Gerald_Levert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby U Are",
+      "artist": "Gerald Levert",
+      "has_synced": true,
+      "path": "select/04_Baby_U_Are_Gerald_Levert.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby U Got",
+      "artist": "G‐Unit",
+      "has_synced": true,
+      "path": "select/05_Baby_U_Got_G‐Unit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby U",
+      "artist": "MBLAQ",
+      "has_synced": true,
+      "path": "select/06_Baby_U_MBLAQ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby U!",
+      "artist": "MBLAQ",
+      "has_synced": true,
+      "path": "select/07_Baby_U!_MBLAQ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby U Want Me (feat. Geolier & Michelangelo)",
+      "artist": "Vale Lambo feat. Geolier",
+      "has_synced": true,
+      "path": "select/08_Baby_U_Want_Me_(feat._Geolier_&_Michelangelo)_Vale_Lambo_feat._Geolier.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby U Want Me",
+      "artist": "Vale Lambo",
+      "has_synced": true,
+      "path": "select/09_Baby_U_Want_Me_Vale_Lambo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You Love Me, Baby (U.S. version)",
+      "artist": "Tony Sheridan",
+      "has_synced": true,
+      "path": "select/10_If_You_Love_Me,_Baby_(U.S._version)_Tony_Sheridan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby U !",
+      "artist": "MBLAQ",
+      "has_synced": true,
+      "path": "select/11_Baby_U_!_MBLAQ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby U Want Me (feat. Geolier & Michelangelo)",
+      "artist": "Vale Lambo, Geolier, Michelangelo",
+      "has_synced": true,
+      "path": "select/12_Baby_U_Want_Me_(feat._Geolier_&_Michelangelo)_Vale_Lambo,_Geolier,_Michelangelo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby U Want Me (feat. Geolier & Michelangelo)",
+      "artist": "Vale Lambo",
+      "has_synced": false,
+      "path": "select/13_Baby_U_Want_Me_(feat._Geolier_&_Michelangelo)_Vale_Lambo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby U Decide",
+      "artist": "高爾宣 OSN",
+      "has_synced": true,
+      "path": "select/14_Baby_U_Decide_高爾宣_OSN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vale Lambo - Baby U Want Me feat. Geolier & Michelangelo (Visual Video)",
+      "artist": "Vale Lambo",
+      "has_synced": true,
+      "path": "select/15_Vale_Lambo_-_Baby_U_Want_Me_feat._Geolier_&_Michelangelo_(Visual_Video)_Vale_Lambo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby U (feat. Don Pero)",
+      "artist": "Yung Snapp",
+      "has_synced": true,
+      "path": "select/16_Baby_U_(feat._Don_Pero)_Yung_Snapp.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby U Want Me (feat. Geolier & Michelangelo)",
+      "artist": "Vale Lambo",
+      "has_synced": true,
+      "path": "select/17_Baby_U_Want_Me_(feat._Geolier_&_Michelangelo)_Vale_Lambo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby.U",
+      "artist": "idom",
+      "has_synced": false,
+      "path": "select/pl_01_Baby.U_idom.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Baby.U (feat.7) - Remix",
+      "artist": "idom",
+      "has_synced": false,
+      "path": "select/pl_02_Baby.U_(feat.7)_-_Remix_idom.txt"
+    }
+  ]
+}
